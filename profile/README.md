@@ -18,9 +18,12 @@ Our first public project is an unofficial community adaptation for older LG webO
 
 The private 2.2.5 milestone verified QR sign-in, profiles, catalog browsing, and episode playback with Spanish subtitles on an LG 55UJ6510-SA running webOS 3.5. The public source is in development. Its build requires a reviewed API provider, and no installable package is published.
 
+### [QuestRecall Forever](https://github.com/AylaForgeStudios/QuestRecall-Forever)
+
+A free, open-source quest journal for WoW Forever, licensed under MIT. Browse per-character quest history, review quest item associations, and look up possible quest origins when optional QuestieDB data is available.
+
 ## In development
 
-- **QuestRecall Forever** — In development.
 - **BANDERIX** — In development.
 
 ## Support the studio
